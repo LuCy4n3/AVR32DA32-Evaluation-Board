@@ -1,0 +1,16 @@
+**/.git/
+**/__Previews/
+**/History/
+Project Logs*/
+*.PrjPcbStructure
+*.PrjMbdStructure
+*.metadata
+*.ldb
+*.lck
+*.log
+*.LOG
+*.PcbDoc.htm
+*.bak
+*.tmp
+Thumbs.db
+desktop.ini

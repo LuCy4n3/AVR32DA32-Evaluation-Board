@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [avr32da32_evalboard.PrjPcb]
+   Generated File[avr32da32_evalboard_Copper_Signal_Top.gbr]
+   Generated File[avr32da32_evalboard_Copper_Signal_Bot.gbr]
+   Generated File[avr32da32_evalboard_Legend_Top.gbr]
+   Generated File[avr32da32_evalboard_Legend_Bot.gbr]
+   Generated File[avr32da32_evalboard_Soldermask_Top.gbr]
+   Generated File[avr32da32_evalboard_Soldermask_Bot.gbr]
+   Generated File[avr32da32_evalboard_Paste_Top.gbr]
+   Generated File[avr32da32_evalboard_Paste_Bot.gbr]
+   Generated File[avr32da32_evalboard_Profile.gbr]
+   Generated File[avr32da32_evalboard_NPTH_Drill.gbr]
+   Generated File[avr32da32_evalboard_PTH_Drill.gbr]
+   Generated File[avr32da32_evalboard.EXTREP]
+   Generated File[avr32da32_evalboard.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 10:09:39 PM On 1/20/2025

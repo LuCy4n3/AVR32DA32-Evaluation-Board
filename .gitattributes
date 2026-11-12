@@ -1,0 +1,5 @@
+* text=auto
+*.PcbDoc binary
+*.SchDoc binary
+*.PcbLib binary
+*.SchLib binary
